@@ -1,0 +1,9 @@
+main: cz.Sicka.LandProtection.LandProtection
+name: LandProtection
+version: 0.0.1-R0.5
+author: Sicka_gp
+softdepend: [Vault, dynmap, CreeplandsCore, HolographicDisplays]
+commands:
+   landprotection:
+      aliases: [land, l]
+#softdepend: [Vault, Stats, mcMMO, GeoIPTools, Heroes, pvpstats, Factions, SimpleClans, ProtocolLib, HolographicDisplays, Autorank, Achievements]

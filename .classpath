@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Programování/Eclipse-Lib - LandProtection, CreeplandsCore/spigot-api-1.8.8-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/Programování/Eclipse-Lib - LandProtection, CreeplandsCore/spigot-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/Programování/Eclipse-Lib - LandProtection, CreeplandsCore/Vault.jar"/>
+	<classpathentry kind="lib" path="E:/Programování/Eclipse-Lib - LandProtection, CreeplandsCore/dynmap.jar"/>
+	<classpathentry kind="lib" path="E:/Programování/Eclipse-Lib - LandProtection, CreeplandsCore/HolographicDisplays.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CreeplandsCore 0.0.1-BETA_R0.9"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

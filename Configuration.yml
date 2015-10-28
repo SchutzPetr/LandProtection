@@ -1,0 +1,17 @@
+Version: 1
+
+Settings:
+  Economy: false
+  PriceOfTheBlockExpanse: 1000
+  DisableCreateInWorlds:
+  
+DefaultAreaSettings:
+  DefaultEnterMessage: "&2Prave jsi vstoupil do oblasti &5<New_Land>&2, kterou vlastni &5<Owner>."
+  DefaultLeaveMessage:  "&2Prave jsi opustil oblast &5<Old_Land>&2."
+  AreaFlags:
+    build: false
+    use: false
+    container: false
+  MinHeight: 40
+  MinLength: 40
+  MinWidth: 60
